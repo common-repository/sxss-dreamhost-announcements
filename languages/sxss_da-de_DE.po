@@ -1,0 +1,77 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: sxss Dreamhost Announcements\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-05-30 18:35+0100\n"
+"PO-Revision-Date: 2012-05-30 18:38+0100\n"
+"Last-Translator: \n"
+"Language-Team: sxss <admin@sxss.info>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../sxss-dreamhost-announcements.php:85
+msgid "Announcement sent successful!"
+msgstr "Ankündigung erfolgreich versendet"
+
+#: ../sxss-dreamhost-announcements.php:89
+msgid "Error while sending one or more announcements!"
+msgstr "Fehler beim Senden einer oder mehrerer Ankündigungen"
+
+#: ../sxss-dreamhost-announcements.php:102
+msgid "API Key saved!"
+msgstr "API Schlüssel gespeichert"
+
+#: ../sxss-dreamhost-announcements.php:106
+msgid "Please check your API Key!"
+msgstr "Bitte überprüfen Sie Ihren API Schlüssel"
+
+#: ../sxss-dreamhost-announcements.php:149
+msgid "Dreamhost Announcements"
+msgstr "Dreamhost Ankündigungen"
+
+#: ../sxss-dreamhost-announcements.php:164
+msgid "Save API Key"
+msgstr "API Schlüssel speichern"
+
+#: ../sxss-dreamhost-announcements.php:184
+msgid "Send a new announcement"
+msgstr "Eine neue Ankündigung versenden"
+
+#: ../sxss-dreamhost-announcements.php:209
+msgid "Announcement List"
+msgstr "Ankündigungsliste"
+
+#: ../sxss-dreamhost-announcements.php:222
+msgid "your@adress.com"
+msgstr "deine@adresse.de"
+
+#: ../sxss-dreamhost-announcements.php:223
+msgid "Subscribe"
+msgstr "Eintragen"
+
+#: ../sxss-dreamhost-announcements.php:223
+msgid "Unsubscribe"
+msgstr "Austragen"
+
+#: ../sxss-dreamhost-announcements.php:227
+msgid "subscribers"
+msgstr "Empfänger"
+
+#: ../sxss-dreamhost-announcements.php:245
+msgid "Subject"
+msgstr "Betreff"
+
+#: ../sxss-dreamhost-announcements.php:255
+msgid "Send announcement"
+msgstr "Ankündigung versenden"
+
+#: ../sxss-dreamhost-announcements.php:272
+msgid "sxss Dreamhost Announcements"
+msgstr "sxss Dreamhost Ankündigungen"
+
